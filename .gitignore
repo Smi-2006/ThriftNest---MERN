@@ -11,3 +11,6 @@ build/
 
 # Other files
 .DS_Store
+
+.env.*
+!.env.example
